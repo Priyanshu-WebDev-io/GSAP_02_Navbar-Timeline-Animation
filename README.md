@@ -24,8 +24,8 @@ This project showcases a sleek and interactive **navbar animation** created usin
 
 **Clone the Repository:**
 ```bash
-git clone https://github.com/Priyanshu-WebDev-io/GSAP-Navbar-Timeline/
-cd GSAP-Navbar-Timeline
+git clone https://github.com/Priyanshu-WebDev-io/GSAP_02_Navbar-Timeline-Animation.git
+cd GSAP_02_Navbar-Timeline-Animation
 ```
 
 **Open the Project:**
@@ -55,15 +55,15 @@ You can personalize the project by:
 Here are some screenshots of the project in action:
 
 **Initial Navbar State:**
-![Initial State](path/to/your/initial-state-image.png)
+![Initial State](./public/Screenshot%202025-01-23%20114414.png)
 
 **Navbar Animation Sequence:**
-![Animation Sequence](path/to/your/animation-sequence-image.png)
+![Animation Sequence](./public/Screenshot%202025-01-23%20114440.png)
 
 ---
 
 ## 📧 Contact
 Have questions or feedback? Feel free to reach out!
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)  
-- **GitHub**: [https://github.com/your-username](https://github.com/your-username)
+- **Email**: [priyanshukumar2043@gmail.com](mailto:priyanshukumar2043@gmail.com)  
+- **GitHub**: [Priyanshu-WebDev-io](https://github.com/Priyanshu-WebDev-io/GSAP_02_Navbar-Timeline-Animation.git)
